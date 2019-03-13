@@ -12,6 +12,6 @@
 
 <h2>Hello!</h2>
 <hr>
-<a href="showForm">Hello World form</a>
+<a href="hello/showForm">Hello World form</a>
 </body>
 </html>
