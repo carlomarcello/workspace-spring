@@ -1,0 +1,1 @@
+Spring automatically adds/verifies CSRF token when using <form:form> tag.
